@@ -1,4 +1,4 @@
-# Muscical Instruments
+# Musical Instruments
 Program to manage musical instruments.
 
 ## Technologies
