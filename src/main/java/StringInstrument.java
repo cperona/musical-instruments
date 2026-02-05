@@ -3,4 +3,9 @@ public class StringInstrument extends Instrument{
     void play() {
         System.out.println("String instrument playing...");
     }
+
+    public StringInstrument(String name, int price){
+        super.name = name;
+        super.price = price;
+    }
 }

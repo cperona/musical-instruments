@@ -3,4 +3,9 @@ public class PercussionInstrument extends Instrument{
     void play() {
         System.out.println("Percussion instrument playing...");
     }
+
+    public PercussionInstrument(String name, int price){
+        super.name = name;
+        super.price = price;
+    }
 }
