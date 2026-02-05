@@ -1,3 +1,5 @@
+package org.example;
+
 public class StringInstrument extends Instrument{
     @Override
     void play() {

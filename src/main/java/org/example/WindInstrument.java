@@ -1,5 +1,6 @@
-public class WindInstrument extends Instrument{
+package org.example;
 
+public class WindInstrument extends Instrument{
     @Override
     void play() {
         System.out.println("Wind instrument playing...");

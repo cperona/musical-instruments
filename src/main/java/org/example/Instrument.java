@@ -1,3 +1,4 @@
+package org.example;
 public abstract class Instrument {
     public String name;
     public int price;
